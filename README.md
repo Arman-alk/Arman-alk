@@ -135,12 +135,19 @@ A Smart India Hackathon project focused on AI-assisted document screening, OCR e
 
 <b>My GitHub Stats</b>
 
-<p align="start">
+<p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arman-alk&show_icons=true&bg_color=000000&title_color=facc15&text_color=ffffff&icon_color=facc15&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Arman-alk&show_icons=true&bg_color=000000&title_color=facc15&text_color=ffffff&icon_color=facc15&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arman-alk&layout=compact&bg_color=000000&title_color=facc15&text_color=ffffff&hide_border=true"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arman-alk&stroke=ffffff&background=000000&ring=facc15&fire=facc15&currStreakNum=ffffff&currStreakLabel=facc15&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arman-alk&layout=compact&bg_color=000000&title_color=facc15&text_color=ffffff&hide_border=true" />
 
 </p>
+
+### 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=Arman-alk&theme=dark&hide_border=true" alt="GitHub Streak" />
+
+</p>
+
